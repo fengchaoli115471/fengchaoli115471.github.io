@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://fengchaoli115471.github.io/sitemap.xml 
